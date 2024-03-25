@@ -1,0 +1,14 @@
+Hardware:
+Survey dan pendataan perangkat keras
+Survey akses jaringan dan internet
+Menyiapkan sebuah PC untuk server database
+- installasi OS
+- installasi XAMPP
+- installasi Laravel (web base)
+- installasi visual studio.net (desktop base)
+
+Aplikasi:
+- Design Struktur Database
+- Pembuatan aplikasi web/desktop
+
+Note: tetap menjalankan sistem yg sudah ada, sistem baru tidak membuat user melakukan input dua kali
