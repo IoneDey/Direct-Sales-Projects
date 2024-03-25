@@ -18,3 +18,8 @@ membentuk tim dalam sebuah proses dari penjualan sampai ke penagihan dan pembaya
 - file penagihan rekap (menjadi satu dengan file penjualan rekap
 - file dashboard untuk resume atas progress dalam tim
 setiap file spreadsheet memiliki analisa, control, perumusan dan perhitungan
+
+Internet 3 buah (semua provider indihome)
+
+Belum dilakukan:
+- pendataan hardware dan jaringan
