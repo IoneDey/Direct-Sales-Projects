@@ -1,0 +1,20 @@
+Survey awal (19-03-2024)
+- data menggunakan google spreadsheet
+- form menggunakan google form
+
+module²:
+a. Direct Sales (barang masuk)
+b. Penjualan
+c. Penagihan
+d. Kas/Bank
+
+data² spreadsheet:
+- file direct sales (barang masuk)
+meliputi daftar barang,harga beli dan harga jual
+membentuk tim dalam sebuah proses dari penjualan sampai ke penagihan dan pembayaran
+- file penjualan detail per-nota (dari google form)
+- file penjualan rekap (group by nota)
+- file penagihan (dari google form)
+- file penagihan rekap (menjadi satu dengan file penjualan rekap
+- file dashboard untuk resume atas progress dalam tim
+setiap file spreadsheet memiliki analisa, control, perumusan dan perhitungan
