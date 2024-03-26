@@ -8,7 +8,11 @@ Menyiapkan sebuah PC untuk server database
 - installasi visual studio.net (desktop base)
 
 Aplikasi:
+- Collecting/daftar semua file spreadsheet 
+- Analisa file spreadsheet
+- Pembuatan draft tabel
+- Relasi dan Normalisasi struktur tabel
 - Design Struktur Database
 - Pembuatan aplikasi web/desktop
 
-Note: tetap menjalankan sistem yg sudah ada, sistem baru tidak membuat user melakukan input dua kali
+Note: tetap menjalankan sistem yg sudah ada (sampai module terkait bisa digunakan dan module lama bisa dilepas), sistem baru tidak membuat user melakukan input dua kali
