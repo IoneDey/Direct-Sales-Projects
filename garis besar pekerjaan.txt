@@ -1,5 +1,7 @@
 Hardware:
 Survey dan pendataan perangkat keras
+  List Wifi: password belum dapat
+  List Hardware: 30%
 Survey akses jaringan dan internet
 Menyiapkan sebuah PC untuk server database
 - installasi OS
