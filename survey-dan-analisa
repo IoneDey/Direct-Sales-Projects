@@ -1,0 +1,12 @@
+Pembuatan kerangka aplikasi web base
+Pembuatan kerangka aplikasi desktop base
+Hasil Survey google form penjualan: 
+  Database:
+  - Master User
+  - Master Kota
+  - Master PT
+  - Master Barang
+  - Master Barang Detail
+  Form:
+  - Master
+  - Penjualan
